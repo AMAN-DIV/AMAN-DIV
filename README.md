@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman-div" alt="aman-div" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/AMAN-DIV?tab=repositories](https://github.com/AMAN-DIV?tab=repositories)
 
