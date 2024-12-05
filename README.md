@@ -19,8 +19,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-div&show_icons=true&locale=en&layout=compact" alt="aman-div" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-div&show_icons=true&locale=en" alt="aman-div" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-div&" alt="aman-div" /></p>
